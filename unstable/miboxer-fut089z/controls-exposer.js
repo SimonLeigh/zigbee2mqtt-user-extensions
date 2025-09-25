@@ -4,7 +4,7 @@
  * This extension registers and exposes the remote's controls, making them available on the appropriate MQTT topics.
  */
 const DISCOVERY_PREFIX = 'homeassistant';
-const VERSION = "1.0.2-unstable";
+const VERSION = "1.0.3-unstable";
 const NAME = "miboxer-fut089z/controls-exposer";
 
 class MiboxerFut089zControlsExposer {
